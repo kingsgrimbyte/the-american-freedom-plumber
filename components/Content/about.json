@@ -1,0 +1,29 @@
+{
+  "metaTitle": "Emergency Plumber in [location] | About Us",
+  "metaDescription": "Trusted, expert plumbers serving the community with honest repairs, emergency response, and clear pricing. Call now for dependable service: [phone]",
+  "bannerQuote": "",
+  "bannerImage": "https://ik.imagekit.io/z6skgnupx/theamericanfreedomplumber_com/Plumbing_Services_about_bannerImage_Aoe8eOOBF.jpg",
+  "h1Banner": "Emergency Plumber in [location] | About Us",
+  "p1Banner": "Trusted, expert plumbers serving the community with honest repairs, emergency response, and clear pricing. Call now for dependable service: [phone]",
+  "p2": "Born from a desire to provide honest, dependable plumbing work, our company has spent over 15 years restoring comfort to homes and businesses. Founded by a veteran tradesman, we built our reputation on responsive service, clear estimates, and durable repairs. We serve [location] with a commitment to quality parts, trained technicians, and the kind of customer care that treats every property like our own.",
+  "h2Image": "https://ik.imagekit.io/z6skgnupx/theamericanfreedomplumber_com/Plumbing_Services_about_h2Image_KHmIYsZWQ.jpg",
+  "missionSection": [
+    {
+      "title": "Our Mission",
+      "description": "To deliver fast, trustworthy plumbing repair and installation with transparent pricing and skilled workmanship—so families and businesses can count on safe water and worry-free service."
+    },
+    {
+      "title": "Our Vision",
+      "description": "To be the most relied-upon local plumbing team, known for emergency readiness, lasting repairs, and a commitment to the community we serve."
+    },
+    {
+      "title": "Our Values",
+      "description": "Experience, integrity, and respect for your home guide everything we do. We show up on time, explain solutions clearly, protect your property, and back our work with reliable warranties."
+    }
+  ],
+  "areaweserveSection": {
+    "description": "We proudly provide full-service plumbing across [location] and nearby communities, handling drain cleaning, leak detection, water heater installation, sewer and pipe repair, and 24/7 emergency calls.",
+    "linkText": "Check our Plumbing service locations here.",
+    "link": "/locations"
+  }
+}
